@@ -1,4 +1,4 @@
-# Load Testing Report: ExamPro AI
+# Load Testing Report: ExamNex
 
 This document summarizes the load testing results for both the frontend and backend components of the application. The testing was performed using **k6** locally.
 

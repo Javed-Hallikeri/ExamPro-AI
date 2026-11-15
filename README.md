@@ -1,6 +1,6 @@
-# 🛡️ ExamPro AI: Next-Gen AI-Powered Examination & Proctoring Platform
+# 🛡️ ExamNex: Next-Gen AI-Powered Examination & Proctoring Platform
 
-ExamPro AI is a comprehensive, state-of-the-art examination system designed for educational institutions and corporate hiring. It combines high-integrity proctoring, AI-driven assessment generation, and deeply personal adaptive learning insights.
+ExamNex is a comprehensive, state-of-the-art examination system designed for educational institutions and corporate hiring. It combines high-integrity proctoring, AI-driven assessment generation, and deeply personal adaptive learning insights.
 
 ---
 
@@ -158,4 +158,3 @@ To ensure reliability, the system rotates keys based on the task type:
 - **`reporting`**: Summary generation for final reports.
 
 ---
-
